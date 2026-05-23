@@ -1,1 +1,6 @@
 
+{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "elmosivio.github.io",
+  "Id": "7ba5c3a1-bf46-4c81-bac8-8868e67cd7ad"
+}
