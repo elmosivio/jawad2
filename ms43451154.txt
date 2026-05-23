@@ -1,4 +1,3 @@
-
 {
   "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
   "Domain": "elmosivio.github.io",
